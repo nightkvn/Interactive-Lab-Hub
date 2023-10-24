@@ -388,6 +388,7 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 - Joystick: trigger of the gun
 </br>
 ![](https://hackmd.io/_uploads/B190AEMM6.png)
+
 </br>
 
 **Detailed Descriptions:**
