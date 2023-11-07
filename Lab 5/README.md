@@ -276,8 +276,8 @@ Following exploration and reflection from Part 1, finish building your interacti
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
 
-For part 2 of the lab we
+For part 2 of the lab, we implemented a pinball machine. The system consists of a 3D-printed pinball machine, the gesture recognition enabled by raspberry pi, and a pair of flippers driven by two servos. The users can play the game with their hand gestures. 
+
 Click to View the Video on the setup and game play:
 
-[<img src="https://hackmd.io/_uploads/Hyh6kkDQ6.png
-">](https://youtu.be/0dFlCIhwrw8?si=X3tShrgpo4UMblCZ)
+[<img src="https://hackmd.io/_uploads/Hyh6kkDQ6.png">](https://youtu.be/0dFlCIhwrw8?si=X3tShrgpo4UMblCZ)
