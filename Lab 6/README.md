@@ -236,4 +236,3 @@ Click to view the video:
 [<img src="https://hackmd.io/_uploads/SJxfWtlN6.png">](https://www.youtube.com/watch?v=-BGFuBviWq4&t=1s)
 
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
-
