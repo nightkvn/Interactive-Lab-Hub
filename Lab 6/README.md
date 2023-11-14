@@ -230,7 +230,10 @@ Network: Connects all components and ensures communication with external devices
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 ![3111699936479_.pic](https://hackmd.io/_uploads/By21Ydg4a.jpg)
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
-{%youtube -BGFuBviWq4 %}
+
+
+Click to view the video:
+[<img src="https://hackmd.io/_uploads/SJxfWtlN6.png">](https://www.youtube.com/watch?v=-BGFuBviWq4&t=1s)
 
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
 
